@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dzag.yaijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dzag.yaijplugin.MyBundle
 
 class MyApplicationService {
 
